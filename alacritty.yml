@@ -1,3 +1,7 @@
+# Import Dracula theme
+import:
+    - ~/.config/alacritty/dracula.yml
+
 window:
     padding:
         x: 8
