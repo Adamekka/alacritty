@@ -25,3 +25,7 @@ window:
         instance: Alacritty
         # General application class
         general: Alacritty
+
+scrolling:
+    # Max num of lines saved in the scrollback buffer
+    history: 5000
