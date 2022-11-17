@@ -12,3 +12,6 @@ window:
 
     # Window opacity
     opacity: 0.8
+
+    # Enable borders and title bar
+    decorations: full
