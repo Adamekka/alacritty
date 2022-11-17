@@ -15,3 +15,13 @@ window:
 
     # Enable borders and title bar
     decorations: full
+
+    # Window title
+    title: Alacritty
+
+    # Window class
+    class:
+        # Application instance name
+        instance: Alacritty
+        # General application class
+        general: Alacritty
