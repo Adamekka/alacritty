@@ -43,3 +43,5 @@ font:
     bold_italic:
         family: UbuntuMono Nerd Font
         style: Bold Italic
+
+    size: 12.0
