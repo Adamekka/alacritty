@@ -6,3 +6,6 @@ window:
     padding:
         x: 8
         y: 8
+
+    # Spread padding around content evenly
+    dynamic_padding: false
