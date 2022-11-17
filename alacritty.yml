@@ -29,3 +29,17 @@ window:
 scrolling:
     # Max num of lines saved in the scrollback buffer
     history: 5000
+
+font:
+    normal:
+        family: UbuntuMono Nerd Font
+        style: Regular
+    bold:
+        family: UbuntuMono Nerd Font
+        style: Bold
+    italic:
+        family: UbuntuMono Nerd Font
+        style: Italic
+    bold_italic:
+        family: UbuntuMono Nerd Font
+        style: Bold Italic
