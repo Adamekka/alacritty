@@ -9,3 +9,6 @@ window:
 
     # Spread padding around content evenly
     dynamic_padding: false
+
+    # Window opacity
+    opacity: 0.8
